@@ -1,0 +1,8 @@
+title: "Hello word"
+description: "Hello word"
+defaults:
+  - scope:
+      path: "posts"
+    values:
+      layout: "post"
+      author: "John Doe"
