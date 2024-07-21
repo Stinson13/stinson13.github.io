@@ -454,14 +454,6 @@ h6 {
   position: relative;
 }
 
-.footer .copyright p {
-  margin-bottom: 0;
-}
-
-.footer .social-links {
-  margin-top: 20px;
-}
-
 .footer .social-links a {
   display: flex;
   align-items: center;
@@ -479,16 +471,6 @@ h6 {
 .footer .social-links a:hover {
   color: var(--default-color);
   border-color: var(--default-color);
-}
-
-.footer .credits {
-  margin-top: 10px;
-  font-size: 13px;
-  text-align: center;
-}
-
-.footer .credits a {
-  color: color-mix(in srgb, var(--default-color), transparent 30%);
 }
 
 /*--------------------------------------------------------------
